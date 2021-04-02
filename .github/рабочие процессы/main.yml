@@ -1,4 +1,6 @@
 name: SMS Spam Detection Action
+- имя: Действие по обнаружению SMS-спама
+  использует: amaaniqbal/sms-spam-detection@v1.21
 
 on:
   push:
